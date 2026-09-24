@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "forkRepository": "https://github.com/retrom-project/FreeChaF",
+  "defaultBranch": "retrom/g76c7a84f1f7e",
+  "upstreamMirrorBranch": "master",
+  "upstreams": [
+    {
+      "role": "core",
+      "repository": "https://github.com/libretro/FreeChaF",
+      "refType": "COMMIT",
+      "ref": "76c7a84f1f7e80f3e6f2bba96fe100cb24e99124",
+      "commit": "76c7a84f1f7e80f3e6f2bba96fe100cb24e99124"
+    }
+  ],
+  "adapterAbi": "emulatorjs-state-v1",
+  "releaseAssets": [
+    "freechaf-wasm.data",
+    "LICENSE",
+    "source.tar.gz",
+    "rpg-runtime-release.json"
+  ]
+}
